@@ -1,9 +1,19 @@
-## import.python : Un código en Python para importar archivos de texto y graficar en 1D y 2D 
-Para ver el funcionamiento del código y su análisis respectivo, ir al artículo: [nepy.pe/es/import.python.](http://www.nepy.pe/es/programacion/datos/importar-y-graficar-datos-en-el-lenguaje-python/) 
+## Importar y graficar datos usando el lenguaje Python
+Aprendemos a programar en Python usando Anaconda. Para esto consideramos el ejemplo de importar archivos de texto y procesar sus datos para obtener gráficas en 2 dimensiones.
+<hr>
 
-Existen 2 archivos y 1 carpeta: 
+**Instrucciones**
 
-1. AFMR/AngDep/Data : Contiene 37 archivos de datos (.txt).
-2. CFB_NoOutput.ipynb : Código Python sin resultados impresos.
-3. CFB_YesOutput.ipynb : Código Python con resultados impresos.
+Existen 2 archivos y 1 carpeta:
 
+1. `AFMR/AngDep/Data` : Contiene 37 archivos de datos (.txt).
+2. `import-plot.ipynb` : Código Python
+
+Abrir el archivo, e.g., en Jupyter Notebook, y listo.
+
+
+**Información**
+  
+- Un análisis completo viene dado en el artículo: 
+  
+  [Importar y graficar datos usando el lenguaje Python](https://nepy.pe/article.php?pid=626c7a73963ca&lan=es). 

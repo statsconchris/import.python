@@ -7,7 +7,7 @@ We learn to program in Python using Anaconda. As an example we consider importin
 There are 2 files and 1 folder:
 
 1. `AFMR/AngDep/Data` : It contains 37 data files (.txt).
-2. `CFB.ipynb` : Python code.
+2. `import-plot.ipynb` : Python code.
 
 Open the file, e.g., in Jupyter Notebook, and run it.
 
